@@ -10,4 +10,6 @@ Raspberry Pi Pico to it.
 
 ![alt text](https://github.com/shockdesign/ph0enix-keyboard/raw/main/Images/pcb-render.png "PCB")
 
+![alt text](https://github.com/shockdesign/ph0enix-keyboard/raw/main/Images/keyboard-layout.png "Keyboard Layout")
+
 License in play is CERN-OHL-W-2.0.
