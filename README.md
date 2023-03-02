@@ -12,4 +12,16 @@ Raspberry Pi Pico to it.
 
 ![alt text](https://github.com/shockdesign/ph0enix-keyboard/raw/main/Images/keyboard-layout.png "Keyboard Layout")
 
+### Parts
+
+| Quantity | Part name            | Link                                                     |
+|----------|----------------------|----------------------------------------------------------|
+| 1        | ph0enix PCB          |                                                          |
+| 44       | SMA Diodes           | https://www.lcsc.com/product-detail/_Yint-_C2920036.html |
+| 1        | Raspberry Pi Pico    |                                                          |
+| 1        | Micro USB cable      |                                                          |
+| 44       | MX style switches    |                                                          |
+| 1        | 40 pin male header   |                                                          |
+| 1        | 40 pin female header | (optional)                                               |
+
 License in play is CERN-OHL-W-2.0.
